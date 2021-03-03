@@ -12,11 +12,11 @@ class Solution {
                 miss = i;
             }
         }
-        return new int[] {dup, miss};
+        return new int[] { dup, miss };
     }
 }
 
-//===================================================
+// ===================================================
 
 class Solution {
     public int[] findErrorNums(int[] nums) {
@@ -32,6 +32,6 @@ class Solution {
                 miss = i;
             }
         }
-        return new int[] {dup, miss};
+        return new int[] { dup, miss };
     }
 }
